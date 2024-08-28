@@ -1,5 +1,5 @@
 <div align="center">
-<h3><img src="icons/TITLE.png" alt="Banner Image" style="width:100%; height:auto; pointer-events: none;">
+<h3><a href="https://github.com/Mueed-C/13th-Annual-Shifa-Scholars-Day-2024---AI-DDH?tab=readme-ov-file" target="_blank"><img src="icons/TITLE.png" alt="Banner Image" style="width:100%; height:auto; pointer-events: none;"></a>
  </h3> 
 <h1>🎓 13th Annual Shifa Scholars Day 2024<br />📜 Presentation Resources</h1>
 <!-- <h2><i>ARTIFICIAL INTELLIGENCE IN DIAGNOSIS OF DEVELOPMENTAL DYSPLASIA OF THE HIP (DDH): A REVIEW OF CURRENT CAPABILITIES AND POTENTIAL IMPACT</i><br /> </h2>-->
