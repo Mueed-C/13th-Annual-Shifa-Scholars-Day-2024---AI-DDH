@@ -1,0 +1,9 @@
+1.	Nandhagopal T, Tiwari V, De Cicco FL. Developmental Dysplasia of the Hip. In: StatPearls. StatPearls Publishing; 2024. Accessed June 4, 2024. http://www.ncbi.nlm.nih.gov/books/NBK563157/
+2.	Woodacre T, Ball T, Cox P. Epidemiology of developmental dysplasia of the hip within the UK: refining the risk factors. J Child Orthop. 2016;10(6):633-642. doi:10.1007/s11832-016-0798-5
+3.	Developmental dysplasia of the hip: incidence and treatment outcomes in the Southeast of Ireland | Irish Journal of Medical Science (1971 -). Accessed June 4, 2024. https://link.springer.com/article/10.1007/s11845-014-1133-0
+4.	Chang WC, Hsu KH, Lo IF, Liao KH, Su YP. Interobserver agreement and clinical disparity between the Graf method and femoral head coverage measurement in developmental dysplasia of the hip screening. Medicine (Baltimore). 2021;100(24):e26291. doi:10.1097/MD.0000000000026291
+5.	Revolutionizing healthcare: the role of artificial intelligence in clinical practice | BMC Medical Education | Full Text. Accessed June 4, 2024. https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-023-04698-z
+6.	Artificial intelligence in orthopaedic surgery | Bone & Joint. Accessed June 4, 2024. https://boneandjoint.org.uk/Article/10.1302/2046-3758.127.BJR-2023-0111.R1
+7.	Sharma N, Jain V, Mishra A. An Analysis Of Convolutional Neural Networks For Image Classification. Procedia Comput Sci. 2018;132:377-384. doi:10.1016/j.procs.2018.05.198
+8.	Cabitza F, Campagner A, Soares F, et al. The importance of being external. methodological insights for the external validation of machine learning models in medicine. Comput Methods Programs Biomed. 2021;208:106288. doi:10.1016/j.cmpb.2021.106288
+
