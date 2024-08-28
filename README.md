@@ -33,7 +33,7 @@ A US-IMG with a strong interest in orthopedic surgery research. Has experience i
 
 **Maryam Amjad**  
 Wah Medical College <br/>
-[![Email](icons/EMAIL.png)](mailto:your-email@gmail.com) [![LinkedIn](icons/LINKEDIN.png)](https://www.linkedin.com/in/aaa/)
+[![Email](icons/EMAIL.png)](mailto:maryamamjad884@gmail.com) [![LinkedIn](icons/LINKEDIN.png)](https://www.linkedin.com/in/maryam-amjad-82185b27b/)
 
 Second-year medical student with a keen interest in research. Previously gave an oral presentation on this topic and is now presenting this poster. Enthusiastic about contributing to research and expanding their knowledge.
 
@@ -43,7 +43,7 @@ Second-year medical student with a keen interest in research. Previously gave an
 
 **Talha Asad**  
 Wah Medical College <br/>
-[![Email](icons/EMAIL.png)](mailto:your-email@gmail.com) [![LinkedIn](icons/LINKEDIN.png)](https://www.linkedin.com/in/aaa/)
+[![Email](icons/EMAIL.png)](mailto:talhaassad@outlook.com) [![LinkedIn](icons/LINKEDIN.png)](https://www.linkedin.com/in/talha-asad-824802236/)
 
 Third-year medical student who assisted with performing literature reviews and managing data collection. Passionate about innovation and improving medical education.
 
