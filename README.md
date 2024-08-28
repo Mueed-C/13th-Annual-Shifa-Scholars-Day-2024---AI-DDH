@@ -1,5 +1,6 @@
 <div align="center">
-<h3> </h3> 
+<h3>![Banner Image](icons/TITLE.png)
+ </h3> 
 <h1>🎓 13th Annual Shifa Scholars Day 2024<br />📜 Presentation Resources</h1>
 <h2><i>ARTIFICIAL INTELLIGENCE IN DIAGNOSIS OF DEVELOPMENTAL DYSPLASIA OF THE HIP (DDH): A REVIEW OF CURRENT CAPABILITIES AND POTENTIAL IMPACT</i><br /> </h2>
 </div>
