@@ -20,11 +20,8 @@ Welcome to our digital project page for the 13th Annual Shifa Scholars Day 2024!
 ### Main Author
 
 **Mueed Chaudhary**  
-Wah Medical College
-[![Email](icons\EMAIL.png)](mailto:Mueed.wmc@gmail.com)  
-[![LinkedIn](icons\LINKEDIN.png)](https://www.linkedin.com/in/mueedc/)  
-[![Google Scholar](icons/GSCHOLAR.png)](https://scholar.google.com/citations?user=AbfDPg0AAAAJ&hl=en)  
-[![ORCID](icons/ORCID.png)](https://orcid.org/0009-0000-7129-1341)
+Wah Medical College <br/>
+[![Email](icons\EMAIL.png)](mailto:Mueed.wmc@gmail.com) [![LinkedIn](icons\LINKEDIN.png)](https://www.linkedin.com/in/mueedc/) [![Google Scholar](icons/GSCHOLAR.png)](https://scholar.google.com/citations?user=AbfDPg0AAAAJ&hl=en) [![ORCID](icons/ORCID.png)](https://orcid.org/0009-0000-7129-1341)
 
 A US-IMG with a strong interest in orthopedic surgery research. Has experience in conducting meta-analyses and database studies, and is skilled in creating 3D + vector graphics for research papers. Actively exploring how artificial intelligence can enhance orthopedic practices.
 
@@ -33,9 +30,8 @@ A US-IMG with a strong interest in orthopedic surgery research. Has experience i
 ### 2nd Author (Presenter)
 
 **Maryam Amjad**  
-Wah Medical College
-[![Email](icons/EMAIL.png)](mailto:your-email@gmail.com)  
-[![LinkedIn](icons/LINKEDIN.png)](https://www.linkedin.com/in/aaa/)
+Wah Medical College <br/>
+[![Email](icons/EMAIL.png)](mailto:your-email@gmail.com) [![LinkedIn](icons/LINKEDIN.png)](https://www.linkedin.com/in/aaa/)
 
 Second-year medical student with a keen interest in research. Previously gave an oral presentation on this topic and is now presenting this poster. Enthusiastic about contributing to research and expanding their knowledge.
 
@@ -44,9 +40,8 @@ Second-year medical student with a keen interest in research. Previously gave an
 ### 3rd Author
 
 **Talha Asad**  
-Wah Medical College
-[![Email](icons/EMAIL.png)](mailto:your-email@gmail.com)  
-[![LinkedIn](icons/LINKEDIN.png)](https://www.linkedin.com/in/aaa/)
+Wah Medical College <br/>
+[![Email](icons/EMAIL.png)](mailto:your-email@gmail.com) [![LinkedIn](icons/LINKEDIN.png)](https://www.linkedin.com/in/aaa/)
 
 Third-year medical student who assisted with performing literature reviews and managing data collection. Passionate about innovation and improving medical education.
 
