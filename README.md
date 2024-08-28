@@ -10,7 +10,7 @@ Welcome to our digital project page for the 13th Annual Shifa Scholars Day 2024!
 <h2>📁 What’s Included</h2></div>
 
 - **Poster PDF:** Download the poster we presented at the conference. 📊
-- **[Reference List:](DOWNLOADS\References.txt)** : A comprehensive list of all references cited in the poster. 📄
+- **[Reference List:](DOWNLOADS/References.txt)** : A comprehensive list of all references cited in the poster. 📄
 
 <div align="center">
 <h2>👩‍🔬 Authors</h2></div>
