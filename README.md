@@ -21,7 +21,7 @@ Welcome to our digital project page for the 13th Annual Shifa Scholars Day 2024!
 
 **Mueed Chaudhary**  
 Wah Medical College <br/>
-[![Email](icons\EMAIL.png)](mailto:Mueed.wmc@gmail.com) [![LinkedIn](icons\LINKEDIN.png)](https://www.linkedin.com/in/mueedc/) [![Google Scholar](icons/GSCHOLAR.png)](https://scholar.google.com/citations?user=AbfDPg0AAAAJ&hl=en) [![ORCID](icons/ORCID.png)](https://orcid.org/0009-0000-7129-1341)
+[![Email](icons/EMAIL.png)](mailto:Mueed.wmc@gmail.com) [![LinkedIn](icons/LINKEDIN.png)](https://www.linkedin.com/in/mueedc/) [![Google Scholar](icons/GSCHOLAR.png)](https://scholar.google.com/citations?user=AbfDPg0AAAAJ&hl=en) [![ORCID](icons/ORCID.png)](https://orcid.org/0009-0000-7129-1341)
 
 A US-IMG with a strong interest in orthopedic surgery research. Has experience in conducting meta-analyses and database studies, and is skilled in creating 3D + vector graphics for research papers. Actively exploring how artificial intelligence can enhance orthopedic practices.
 
@@ -47,6 +47,7 @@ Third-year medical student who assisted with performing literature reviews and m
 
 ---
 
-### Contact Us
+<div align="center">
+<h3>📬 Contact Us</h3></div>
 
 If you have any questions or would like to discuss our research further, feel free to reach out through our contact information provided above.
