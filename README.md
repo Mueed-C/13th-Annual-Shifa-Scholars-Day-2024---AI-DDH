@@ -19,7 +19,7 @@ Welcome to our digital project page for the 13th Annual Shifa Scholars Day 2024!
 
 ---
 
-### Main Author
+### Primary Author
 
 **Mueed Chaudhary**  
 Wah Medical College <br/>
@@ -29,7 +29,7 @@ A US-IMG with a strong interest in orthopedic surgery research. Has experience i
 
 ---
 
-### 2nd Author (Presenter)
+### Co-Author (Presenter)
 
 **Maryam Amjad**  
 Wah Medical College <br/>
@@ -39,7 +39,7 @@ Second-year medical student with a keen interest in research. Previously gave an
 
 ---
 
-### 3rd Author
+### Co-Author
 
 **Talha Asad**  
 Wah Medical College <br/>
