@@ -11,7 +11,7 @@ Welcome to our digital project page for the 13th Annual Shifa Scholars Day 2024!
 <div align="center">
 <h2>📁 What’s Included</h2></div>
 
-- **Poster PDF:** Download the poster we presented at the conference. 📊
+- **[Poster PDF:](DOWNLOADS/Poster_SHIFA_AiDDH.pdf)** Download the poster we presented at the conference. 📊
 - **[Reference List:](DOWNLOADS/References.txt)** : A comprehensive list of all references cited in the poster. 📄
 
 <div align="center">
@@ -35,7 +35,7 @@ A US-IMG with a strong interest in orthopedic surgery research. Has experience i
 Wah Medical College <br/>
 [![Email](icons/EMAIL.png)](mailto:maryamamjad884@gmail.com) [![LinkedIn](icons/LINKEDIN.png)](https://www.linkedin.com/in/maryam-amjad-82185b27b/)
 
-Second-year medical student with a keen interest in research. Previously gave an oral presentation on this topic and is now presenting this poster. Enthusiastic about contributing to research and expanding their knowledge.
+Medical student with a keen interest in research. Previously gave an oral presentation on this topic and is now presenting this poster. Enthusiastic about contributing to research and expanding their knowledge. Ambassador to various research societies from Wah Medical College.
 
 ---
 
