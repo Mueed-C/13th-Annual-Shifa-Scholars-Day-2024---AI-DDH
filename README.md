@@ -23,7 +23,7 @@ Welcome to our digital project page for the 13th Annual Shifa Scholars Day 2024!
 
 **Mueed Chaudhary**  
 Wah Medical College <br/>
-[![Email](icons/EMAIL.png)](mailto:Mueed.wmc@gmail.com) [![LinkedIn](icons/LINKEDIN.png)](https://www.linkedin.com/in/mueedc/) [![Google Scholar](icons/GSCHOLAR2.png)](https://scholar.google.com/citations?user=AbfDPg0AAAAJ&hl=en) [![ORCID](icons/ORCID2.png)](https://orcid.org/0009-0000-7129-1341)
+[![Email](icons/EMAIL.png)](mailto:Mueed.wmc@gmail.com) [![LinkedIn](icons/LINKEDIN.png)](https://www.linkedin.com/in/mueedc/) [![Google Scholar](icons/GSCHOLAR.png)](https://scholar.google.com/citations?user=AbfDPg0AAAAJ&hl=en) [![ORCID](icons/ORCID.png)](https://orcid.org/0009-0000-7129-1341)
 
 A US-IMG with a strong interest in orthopedic surgery research. Has experience in conducting meta-analyses and database studies, and is skilled in creating 3D + vector graphics for research papers. Actively exploring how artificial intelligence can enhance orthopedic practices.
 
@@ -33,7 +33,7 @@ A US-IMG with a strong interest in orthopedic surgery research. Has experience i
 
 **Maryam Amjad**  
 Wah Medical College <br/>
-[![Email](icons/EMAIL2.png)](mailto:maryamamjad884@gmail.com) [![LinkedIn](icons/LINKEDIN2.png)](https://www.linkedin.com/in/maryam-amjad-82185b27b/)
+[![Email](icons/EMAIL.png)](mailto:maryamamjad884@gmail.com) [![LinkedIn](icons/LINKEDIN.png)](https://www.linkedin.com/in/maryam-amjad-82185b27b/)
 
 Medical student with a keen interest in research. Previously gave an oral presentation on this topic and is now presenting this poster. Enthusiastic about contributing to research and expanding their knowledge. Ambassador to various research societies from Wah Medical College.
 
