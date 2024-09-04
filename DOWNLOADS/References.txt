@@ -7,3 +7,4 @@
 7.	Sharma N, Jain V, Mishra A. An Analysis Of Convolutional Neural Networks For Image Classification. Procedia Comput Sci. 2018;132:377-384. doi:10.1016/j.procs.2018.05.198
 8.	Cabitza F, Campagner A, Soares F, et al. The importance of being external. methodological insights for the external validation of machine learning models in medicine. Comput Methods Programs Biomed. 2021;208:106288. doi:10.1016/j.cmpb.2021.106288
 
+Although only references 1-5 are cited within the poster, references 6-8 are also worthwhile reads.
