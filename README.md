@@ -35,7 +35,7 @@ A US-IMG with a strong interest in orthopedic surgery research. Has experience i
 Wah Medical College <br/>
 [![Email](icons/EMAIL.png)](mailto:maryamamjad884@gmail.com) [![LinkedIn](icons/LINKEDIN.png)](https://www.linkedin.com/in/maryam-amjad-82185b27b/)
 
-Medical student with a keen interest in research. Previously gave an oral presentation on this topic and is now presenting this poster. Enthusiastic about contributing to research and expanding their knowledge. Ambassador to various research societies across Pakistan.
+Second year Medical student with a keen interest in research. Previously gave an oral presentation on this topic and is now presenting this poster. Enthusiastic about contributing to research and expanding their knowledge. Ambassador to various research societies across Pakistan.
 
 ---
 
